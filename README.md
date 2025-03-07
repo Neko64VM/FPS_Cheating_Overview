@@ -50,8 +50,8 @@ https://en.wikipedia.org/wiki/DMA_attack
 https://github.com/TheCruZ/Direct-EFI-Apex-Cheat
 
 * チートの各機能を語る根拠  
-https://github.com/Neko64V  
-EngineOwningをはじめとした各種チートプロバイダのWebサイト（リンクは貼らないよ…
+・自身の経験  
+・各種チートプロバイダのWebサイト（リンクは貼らないよ…
 
 * ESP対策  
 https://pubg.com/ja/news/6957  
