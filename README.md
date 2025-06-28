@@ -62,6 +62,12 @@ https://x.com/ginnan_0/status/1228922275446972417
 https://www.ea.com/ja-jp/legal/user-agreement  
 https://www.escapefromtarkov.com/legal/license_agreement_en.html
 
+* GDPR  
+https://ja.wikipedia.org/wiki/EU%E4%B8%80%E8%88%AC%E3%83%87%E3%83%BC%E3%82%BF%E4%BF%9D%E8%AD%B7%E8%A6%8F%E5%89%87
+
+* プライバシーとRiot Vanguard  
+https://support-valorant.riotgames.com/hc/ja/articles/360046160933-Vanguard%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6
+
 * 参考書籍 - 国立国会図書館行って読んできました  
 https://ndlsearch.ndl.go.jp/books/R100000002-I000008220794  
 https://ndlsearch.ndl.go.jp/books/R100000002-I032193788
